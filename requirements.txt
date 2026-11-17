@@ -1,6 +1,5 @@
-pandas
 numpy
+pandas
 scikit-learn
-xgboost
-lightgbm
 joblib
+pytest
